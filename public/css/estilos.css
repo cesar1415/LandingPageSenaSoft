@@ -1,0 +1,152 @@
+
+div#general{
+	margin:auto;
+	margin-top:100px;
+	width: 960px;
+	height: 1200px;
+	background-color: #E6EDED;
+}
+
+div#presentacion{
+	text-align: center;
+	width: 960px;
+	height: 200px;
+	background-color: #08FDFD;
+}
+
+.logotipo {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.informacion {
+    width: 80%;
+}
+
+.logotipo img {
+    width: 100%;
+}
+
+div#presentacion {
+    display: flex;
+}
+
+.informacion p {
+    padding: 0px;
+    margin: 5px;
+}
+
+.redes a img {
+    width: 30px;
+    margin: 5px;
+}
+.redes {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.informacion {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.informacion div {
+    width: 100%;
+}
+
+.productos {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.cuerpo {
+    display: flex;
+}
+
+.cuerpo .columna-uno {
+    width: 30%;
+}
+
+.cuerpo .columna-dos {
+    width: 70%;
+}
+
+.img-producto img {
+    width: 100%;
+}
+
+.img-producto {
+    width: 70px;
+}
+
+.producto a {
+    text-decoration: none;
+    background: #5ad1ff;
+    color: #FFF;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+    width: 160px;
+    margin-bottom: 5px;
+}
+
+.contenido-producto {
+    background: #dbdbdb;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 5px;
+}
+
+.nombre-producto {
+    width: 100%;
+}
+
+.producto {
+    text-align: center;
+}
+
+.cuerpo .columna-dos {
+    width: 70%;
+    margin-top: 50px;
+}
+
+.cuerpo .columna-uno {
+    width: 30%;
+    margin-top: 50px;
+    position: relative;
+}
+
+.video {
+    padding: 20px;
+    margin-left: 39px;
+}
+.chat {
+    padding: 20px;
+}
+
+.producto .p{
+    color: red;
+}
+
+.divi {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.divi div {
+    background: #06F9F6;
+    width: 33%;
+    margin: 5px;
+    padding: 20px 0px 20px 0px;
+    text-align: center;
+}
