@@ -8,7 +8,7 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-    <p><a href="index" title="Página principal de Mi Sitio" rel="index" class="btn btn-primary mt-3">Volver a la pagina principal</a></p>
+    <p><a href="/" title="Página principal de Mi Sitio" rel="index" class="btn btn-primary mt-3">Volver a la pagina principal</a></p>
 	<div id="general">
 		<div id="portada">
 			<div class="logotipo">
